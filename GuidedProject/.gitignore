@@ -1,0 +1,6 @@
+/Starter/bin
+/Starter/obj
+/Final/bin
+/Final/obj
+*.csproj
+*.sln
